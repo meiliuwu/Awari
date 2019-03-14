@@ -1,4 +1,3 @@
-# Awari
-Board Game
+# Awari - Board Game
 
-## Alpha-beta Algorithm - Minimax
+### Alpha-beta Algorithm - Minimax
